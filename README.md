@@ -1,21 +1,13 @@
-# vue-music
+<h2>项目展示</h2>
 
-> A Vue.js project
+<h3>主页</h3>
 
-## Build Setup
+![image](https://github.com/shashademao/vue-music/blob/master/screenshot/1.gif)
 
-``` bash
-# install dependencies
-npm install
+<h3>播放列表页</h3>
 
-# serve with hot reload at localhost:8080
-npm run dev
+![image](https://github.com/shashademao/vue-music/blob/master/screenshot/2.gif)
 
-# build for production with minification
-npm run build
+<h3>歌手页</h3>
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+![image](https://github.com/shashademao/vue-music/blob/master/screenshot/3.gif)
