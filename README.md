@@ -1,3 +1,16 @@
+<h3>后端使用了<a href='https://github.com/Binaryify/NeteaseCloudMusicApi'>NeteaseCloudMusicApi</a>，网易云音乐 NodeJS 版 API，提供音乐数</h3>
+
+克隆代码到本地之后，需要运行 NeteaseCloudMusicApi，来起一个音乐的 API 接口。
+
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
 <h2>项目展示</h2>
 
 <h3>主页</h3>
