@@ -137,7 +137,6 @@
 				}
 				p{
 					font-size:13px;
-					color:#darkblack;
 				}
 				span{
 					b{
