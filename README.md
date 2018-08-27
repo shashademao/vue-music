@@ -8,7 +8,7 @@ npm install
 npm run dev
 
 
-<h2>项目展示</h2>
+<h2>项目展示(图片加载较慢，稍等)</h2>
 
 <h3>主页</h3>
 
